@@ -1,0 +1,35 @@
+_repo: The-history-of-our-Navy-from-its-origin-to-the-present-day-1775-1897-vol-4-of-4_71797
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spears, John Randolph
+    alias: Spears, John R.
+    birthdate: 1850
+    deathdate: 1936
+    gutenberg_agent_id: '39848'
+    url: http://www.gutenberg.org/2009/agents/39848
+    wikipedia: https://en.wikipedia.org/wiki/John_Randolph_Spears
+description: ''
+gutenberg_issued: '2023-10-05'
+identifiers:
+  gutenberg: '71797'
+language: en
+pgterms:marc904: https://archive.org/details/navyfromitsorigin03spearich
+pgterms:marc905: 20200613061619spears
+pgterms:marc906: '1897'
+pgterms:marc907: us
+production_note: Peter Becker, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bCharles Scribner''s Sons, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Navy -- History'
+- !lcsh 'United States. Navy -- History -- Spanish-American War, 1898'
+- !lcc 'E151'
+- GITenberg
+title: The history of our Navy from its origin to the present day, 1775-1897, vol.
+  4 (of 4)
+url: http://www.gutenberg.org/ebooks/71797
